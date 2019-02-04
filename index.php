@@ -4,7 +4,8 @@
 </head>
 <body>
 <?php
-$fruits = array(""=>"35", "Ben"=>"37", "Joe"=>"43");
+$fruits = array("apple"=>"10", "ponkan"=>"12", "grapes"=>"50");
+
 
 
 ?>
